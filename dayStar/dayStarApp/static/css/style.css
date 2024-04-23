@@ -344,6 +344,8 @@
   }
   
   .sitter {
+    display: flex;
+    margin: auto;
     min-width: fit-content;
     padding: 1rem 1.5rem;
     border: 1px solid rgb(194, 189, 189);
@@ -392,7 +394,7 @@
   }
   
   .sitter-table thead tr {
-    background-color: #b5b4b4;
+    background-color: #1e7875;
     color: white;
   }
   
